@@ -1,0 +1,54 @@
+# Dependency directories
+node_modules/
+
+# React Native specific
+/.expo/
+/__tests__/
+/debugger-ui/
+/ios/Pods/
+/ios/build/
+/ios/Podfile.lock
+/ios/*.mode*
+/ios/*.pbxuser
+/ios/*.perspectivev3
+/ios/*.xcworkspace/
+/ios/*.xcuserdata/
+/ios/xcshareddata/
+
+# macOS
+.DS_Store
+
+# Android
+/android/build/
+/android/app/build/
+.gradle/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env*
+
+# Build artifacts
+*.apk
+*.aab
+
+# Gradle files
+.gradle/
+
+# Keystore files
+*.jks
+
+# Signing files
+*.keystore
+
+# Miscellaneous
+*.log
+*.tmp
+*.temp
